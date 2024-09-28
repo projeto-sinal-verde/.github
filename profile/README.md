@@ -1,4 +1,4 @@
-# Nome do projeto
+# Projeto Sinal Verde
 
 ## Sobre nós
 Somos uma empresa que realizamos o trabalho de aumentar o controle do trânsito de todos os estados do Brasil, fazendo parceria com o Ministério de Transportes e a SENATRAN, por meio de Análise de Dados dos semáforos inteligentes.
