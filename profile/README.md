@@ -1,7 +1,7 @@
 # Projeto Sinal Verde
 
 ## Sobre nós
-Somos uma empresa que realizamos o trabalho de aumentar o controle do trânsito de todos os estados do Brasil, fazendo parceria com o Ministério de Transportes e a SENATRAN, por meio de Análise de Dados dos semáforos inteligentes.
+Somos uma empresa que realizamos o trabalho de aumentar o controle do trânsito de todos os estados do Brasil, fazendo parceria com o Ministério de Transportes e a SENATRAN, por meio de Análise de Dados dos semáforos inteligentes. Visando otimizar o tempo dos cidadãos no trânsito da cidade com a criação de um sistema de tráfego mais inteligente e capaz de adaptar-se às condições reais do trânsito, aumentando a segurança e reduzindo congestionamentos.
 
 ## O que oferecemos?
 Solução IOT, utilizando de sensores os quais medem distâncias, para monitorar fluxo de carros e pedestres em trânsito, acoplado a um sistema web com uma dashboard que possibilita a visualização tempo real do fluxo e os dados captados.
